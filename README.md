@@ -13,7 +13,7 @@
 ###### Navbar collapses to button on small screens
 ###### Image shrinks on small screens - content moved higher up to hide where image ends
 ###### Templates for homepage, about, experience, services, projects, and contact
-###### Homepage targets specific post by id and only displays it and its title along with visuals and links for each page
+###### Homepage targets specific post by id(41) and only displays it and its title along with visuals and links for each page
 ###### About page features jquery powered drop down menus
 ###### Experience page features jquery page tabs, and custom calendar icons
 ###### Services page features custom progress bars
