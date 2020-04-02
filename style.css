@@ -1588,10 +1588,6 @@ a.social-links__link {
 	}
 }
 
-.services {
-	padding-bottom: 40px;
-}
-
 .services__title {
 	font-size: 22px;
 	color: #a1b2c9;
@@ -1835,6 +1831,10 @@ a.social-links__link {
 	.contact__link--28 {
 		margin-left: 24px;
 	}
+}
+
+.site-main {
+	margin-bottom: 150px;
 }
 
 /*--------------------------------------------------------------
