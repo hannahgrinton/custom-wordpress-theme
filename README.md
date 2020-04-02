@@ -23,3 +23,4 @@
 ###### All styles for templates are located in templates directory under sites
 ###### All JS work for templates is found in template.js in js directory
 ###### Search results show up as expected
+###### Compatible with last 3 revisions of wordpress - homepage requires post with id 41, to change, edit index.php file
